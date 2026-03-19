@@ -1,1 +1,1 @@
-This repository stores the data and programs that are used in the following paper: https://pubs.acs.org/doi/10.1021/acs.chemmater.5c02032
+This repository stores the data and programs that are used in the following paper: "Investigation of Hole Dopability in Oxygen-2p-Dominated Bands" https://pubs.acs.org/doi/10.1021/acs.chemmater.5c02032
