@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "KLaTiO4", "band_idx": 45, "kpt_idx": 11, "orbitals": {"K": {"s": 0.0, "p": 0.006, "d": 0.0}, "La": {"s": 0.002, "p": 0.032, "d": 0.026}, "Ti": {"s": 0.0, "p": 0.014, "d": 0.01}, "O": {"s": 0.006, "p": 0.682, "d": 0.0}}}

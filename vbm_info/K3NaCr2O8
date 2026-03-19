@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "K3NaCr2O8", "band_idx": 81, "kpt_idx": 0, "orbitals": {"K": {"s": 0.0, "p": 0.0, "d": 0.0}, "Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "Cr": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.738, "d": 0.0}}}

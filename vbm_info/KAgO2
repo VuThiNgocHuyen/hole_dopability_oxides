@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "KAgO2", "band_idx": 29, "kpt_idx": 0, "orbitals": {"K": {"s": 0.0, "p": 0.0, "d": 0.006}, "Ag": {"s": 0.0, "p": 0.0, "d": 0.206}, "O": {"s": 0.0, "p": 0.58, "d": 0.0}}}

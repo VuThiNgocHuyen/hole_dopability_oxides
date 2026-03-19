@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "KNa2CuO2", "band_idx": 15, "kpt_idx": 101, "orbitals": {"K": {"s": 0.0, "p": 0.0, "d": 0.0}, "Na": {"s": 0.0, "p": 0.008, "d": 0.0}, "Cu": {"s": 0.0, "p": 0.0, "d": 0.318}, "O": {"s": 0.0, "p": 0.48, "d": 0.0}}}

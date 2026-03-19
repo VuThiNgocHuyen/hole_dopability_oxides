@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "KNaLaTaO5", "band_idx": 53, "kpt_idx": 3, "orbitals": {"K": {"s": 0.0, "p": 0.0, "d": 0.0}, "Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "La": {"s": 0.0, "p": 0.034, "d": 0.005}, "Ta": {"s": 0.0, "p": 0.002, "d": 0.0}, "O": {"s": 0.0, "p": 0.706, "d": 0.0}}}
