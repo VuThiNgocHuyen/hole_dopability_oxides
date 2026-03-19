@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "In6Ge2PtO9", "band_idx": 44, "kpt_idx": 7, "orbitals": {"In": {"s": 0.236, "p": 0.20400000000000001, "d": 0.05}, "Ge": {"s": 0.0, "p": 0.0, "d": 0.0}, "Pt": {"s": 0.0, "p": 0.114, "d": 0.0}, "O": {"s": 0.0, "p": 0.24, "d": 0.0}}}
