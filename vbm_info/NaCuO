@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NaCuO", "band_idx": 35, "kpt_idx": 58, "orbitals": {"Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "Cu": {"s": 0.112, "p": 0.008, "d": 0.628}, "O": {"s": 0.0, "p": 0.132, "d": 0.0}}}

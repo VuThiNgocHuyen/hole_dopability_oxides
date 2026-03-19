@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NaAlO2", "band_idx": 31, "kpt_idx": 76, "orbitals": {"Na": {"s": 0.002, "p": 0.004, "d": 0.0}, "Al": {"s": 0.002, "p": 0.002, "d": 0.0}, "O": {"s": 0.0, "p": 0.7070000000000001, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NaBiO2", "band_idx": 17, "kpt_idx": 20, "orbitals": {"Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "Bi": {"s": 0.1, "p": 0.196, "d": 0.004}, "O": {"s": 0.008, "p": 0.5519999999999999, "d": 0.0}}}

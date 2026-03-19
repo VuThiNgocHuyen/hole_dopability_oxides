@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NbInO4", "band_idx": 37, "kpt_idx": 58, "orbitals": {"Nb": {"s": 0.002, "p": 0.01, "d": 0.008}, "In": {"s": 0.004, "p": 0.008, "d": 0.026}, "O": {"s": 0.0, "p": 0.744, "d": 0.0}}}

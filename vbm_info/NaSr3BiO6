@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NaSr3BiO6", "band_idx": 71, "kpt_idx": 12, "orbitals": {"Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "Sr": {"s": 0.0, "p": 0.013999999999999999, "d": 0.0}, "Bi": {"s": 0.0, "p": 0.0, "d": 0.014}, "O": {"s": 0.0, "p": 0.7080000000000002, "d": 0.0}}}

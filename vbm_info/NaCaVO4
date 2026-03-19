@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NaCaVO4", "band_idx": 37, "kpt_idx": 42, "orbitals": {"Na": {"s": 0.0, "p": 0.002, "d": 0.0}, "Ca": {"s": 0.0, "p": 0.008, "d": 0.0}, "V": {"s": 0.0, "p": 0.018, "d": 0.008}, "O": {"s": 0.0, "p": 0.7199999999999999, "d": 0.0}}}

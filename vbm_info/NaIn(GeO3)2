@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NaIn(GeO3)2", "band_idx": 47, "kpt_idx": 12, "orbitals": {"Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "In": {"s": 0.0, "p": 0.006, "d": 0.032}, "Ge": {"s": 0.0, "p": 0.0, "d": 0.024}, "O": {"s": 0.0, "p": 0.7120000000000002, "d": 0.0}}}

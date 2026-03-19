@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NaIn(SiO3)2", "band_idx": 47, "kpt_idx": 7, "orbitals": {"Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "In": {"s": 0.0, "p": 0.004, "d": 0.038}, "Si": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.7300000000000001, "d": 0.0}}}

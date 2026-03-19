@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NbGaO4", "band_idx": 47, "kpt_idx": 20, "orbitals": {"Nb": {"s": 0.0, "p": 0.004, "d": 0.006}, "Ga": {"s": 0.002, "p": 0.002, "d": 0.041999999999999996}, "O": {"s": 0.0, "p": 0.7500000000000001, "d": 0.0}}}

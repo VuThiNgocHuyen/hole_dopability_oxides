@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NaScO2", "band_idx": 7, "kpt_idx": 0, "orbitals": {"Na": {"s": 0.0, "p": 0.002, "d": 0.0}, "Sc": {"s": 0.0, "p": 0.05499999999999999, "d": 0.0}, "O": {"s": 0.0, "p": 0.7380000000000001, "d": 0.0}}}
