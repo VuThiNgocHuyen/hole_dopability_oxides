@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Si2Hg6O7", "band_idx": 60, "kpt_idx": 3, "orbitals": {"Si": {"s": 0.0, "p": 0.0, "d": 0.0}, "Hg": {"s": 0.33999999999999997, "p": 0.09200000000000001, "d": 0.048}, "O": {"s": 0.0, "p": 0.28400000000000003, "d": 0.0}}}

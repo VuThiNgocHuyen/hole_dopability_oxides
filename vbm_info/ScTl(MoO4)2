@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "ScTl(MoO4)2", "band_idx": 37, "kpt_idx": 40, "orbitals": {"Sc": {"s": 0.0, "p": 0.001, "d": 0.0}, "Tl": {"s": 0.326, "p": 0.0, "d": 0.003}, "Mo": {"s": 0.0, "p": 0.048, "d": 0.004}, "O": {"s": 0.002, "p": 0.404, "d": 0.0}}}

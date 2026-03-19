@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "RbLiCrO4", "band_idx": 39, "kpt_idx": 0, "orbitals": {"Rb": {"s": 0.0, "p": 0.006, "d": 0.0}, "Li": {"s": 0.0, "p": 0.0, "d": 0.0}, "Cr": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.738, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "RbTa(BO3)2", "band_idx": 55, "kpt_idx": 20, "orbitals": {"Rb": {"s": 0.0, "p": 0.002, "d": 0.0}, "Ta": {"s": 0.0, "p": 0.01, "d": 0.014}, "B": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.7479999999999998, "d": 0.0}}}

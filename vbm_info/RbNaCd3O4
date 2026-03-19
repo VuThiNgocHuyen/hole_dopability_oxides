@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "RbNaCd3O4", "band_idx": 34, "kpt_idx": 0, "orbitals": {"Rb": {"s": 0.0, "p": 0.003, "d": 0.0}, "Na": {"s": 0.0, "p": 0.003, "d": 0.0}, "Cd": {"s": 0.0, "p": 0.005, "d": 0.10400000000000001}, "O": {"s": 0.0, "p": 0.65, "d": 0.0}}}
