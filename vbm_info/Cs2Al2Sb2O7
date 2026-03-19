@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Cs2Al2Sb2O7", "band_idx": 37, "kpt_idx": 2, "orbitals": {"Cs": {"s": 0.0, "p": 0.004, "d": 0.002}, "Al": {"s": 0.0, "p": 0.0, "d": 0.0}, "Sb": {"s": 0.124, "p": 0.156, "d": 0.004}, "O": {"s": 0.0, "p": 0.369, "d": 0.0}}}

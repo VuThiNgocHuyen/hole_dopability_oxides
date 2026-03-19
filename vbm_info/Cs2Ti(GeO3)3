@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Cs2Ti(GeO3)3", "band_idx": 87, "kpt_idx": 3, "orbitals": {"Cs": {"s": 0.0, "p": 0.004, "d": 0.0}, "Ti": {"s": 0.0, "p": 0.0, "d": 0.012}, "Ge": {"s": 0.0, "p": 0.014, "d": 0.012}, "O": {"s": 0.0, "p": 0.716, "d": 0.0}}}
