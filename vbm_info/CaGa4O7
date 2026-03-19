@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "CaGa4O7", "band_idx": 101, "kpt_idx": 0, "orbitals": {"Ca": {"s": 0.0, "p": 0.0, "d": 0.002}, "Ga": {"s": 0.0, "p": 0.0, "d": 0.020000000000000004}, "O": {"s": 0.0, "p": 0.7380000000000001, "d": 0.0}}}

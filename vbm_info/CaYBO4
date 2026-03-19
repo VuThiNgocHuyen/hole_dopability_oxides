@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "CaYBO4", "band_idx": 91, "kpt_idx": 0, "orbitals": {"Ca": {"s": 0.0, "p": 0.012, "d": 0.008}, "Y": {"s": 0.0, "p": 0.052, "d": 0.0}, "B": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.7320000000000002, "d": 0.0}}}

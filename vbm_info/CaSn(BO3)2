@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "CaSn(BO3)2", "band_idx": 26, "kpt_idx": 4, "orbitals": {"Ca": {"s": 0.0, "p": 0.011, "d": 0.0}, "Sn": {"s": 0.006, "p": 0.0, "d": 0.053000000000000005}, "B": {"s": 0.0, "p": 0.004, "d": 0.0}, "O": {"s": 0.0, "p": 0.7439999999999999, "d": 0.0}}}

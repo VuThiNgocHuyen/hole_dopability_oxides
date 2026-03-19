@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "CaIn2O4", "band_idx": 37, "kpt_idx": 0, "orbitals": {"Ca": {"s": 0.0, "p": 0.0, "d": 0.0}, "In": {"s": 0.0, "p": 0.0, "d": 0.124}, "O": {"s": 0.0, "p": 0.712, "d": 0.0}}}

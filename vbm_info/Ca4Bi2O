@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ca4Bi2O", "band_idx": 23, "kpt_idx": 0, "orbitals": {"Ca": {"s": 0.0, "p": 0.059, "d": 0.032}, "Bi": {"s": 0.0, "p": 0.556, "d": 0.0}, "O": {"s": 0.0, "p": 0.040999999999999995, "d": 0.0}}}

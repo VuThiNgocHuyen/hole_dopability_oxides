@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Cd2SiO4", "band_idx": 51, "kpt_idx": 17, "orbitals": {"Cd": {"s": 0.008, "p": 0.0, "d": 0.092}, "Si": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.6849999999999998, "d": 0.0}}}

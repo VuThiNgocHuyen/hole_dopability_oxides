@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Cd(GaO2)2", "band_idx": 61, "kpt_idx": 16, "orbitals": {"Cd": {"s": 0.0, "p": 0.016, "d": 0.078}, "Ga": {"s": 0.0, "p": 0.012, "d": 0.028}, "O": {"s": 0.0, "p": 0.692, "d": 0.0}}}
