@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "TaTl(GeO3)3", "band_idx": 83, "kpt_idx": 6, "orbitals": {"Ta": {"s": 0.0, "p": 0.004, "d": 0.016}, "Tl": {"s": 0.336, "p": 0.0, "d": 0.002}, "Ge": {"s": 0.0, "p": 0.0, "d": 0.006}, "O": {"s": 0.0, "p": 0.41800000000000015, "d": 0.0}}}

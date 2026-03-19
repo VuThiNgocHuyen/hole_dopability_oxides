@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ta6TiTl2O18", "band_idx": 83, "kpt_idx": 3, "orbitals": {"Ta": {"s": 0.002, "p": 0.004, "d": 0.016}, "Ti": {"s": 0.0, "p": 0.0, "d": 0.007}, "Tl": {"s": 0.158, "p": 0.004, "d": 0.0}, "O": {"s": 0.002, "p": 0.5800000000000002, "d": 0.0}}}

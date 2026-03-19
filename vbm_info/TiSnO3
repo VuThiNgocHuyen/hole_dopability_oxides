@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "TiSnO3", "band_idx": 25, "kpt_idx": 0, "orbitals": {"Ti": {"s": 0.002, "p": 0.028, "d": 0.006}, "Sn": {"s": 0.366, "p": 0.176, "d": 0.004}, "O": {"s": 0.006, "p": 0.32, "d": 0.0}}}

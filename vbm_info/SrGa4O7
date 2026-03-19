@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "SrGa4O7", "band_idx": 103, "kpt_idx": 0, "orbitals": {"Sr": {"s": 0.0, "p": 0.0, "d": 0.0}, "Ga": {"s": 0.0, "p": 0.0, "d": 0.024000000000000004}, "O": {"s": 0.0, "p": 0.7360000000000001, "d": 0.0}}}
