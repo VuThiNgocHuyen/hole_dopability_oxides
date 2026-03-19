@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "AlCuO2", "band_idx": 12, "kpt_idx": 52, "orbitals": {"Al": {"s": 0.0, "p": 0.001, "d": 0.0}, "Cu": {"s": 0.072, "p": 0.0, "d": 0.723}, "O": {"s": 0.004, "p": 0.128, "d": 0.0}}}

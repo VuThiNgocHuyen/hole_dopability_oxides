@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Al2Ge2O7", "band_idx": 55, "kpt_idx": 0, "orbitals": {"Al": {"s": 0.0, "p": 0.0, "d": 0.0}, "Ge": {"s": 0.0, "p": 0.0, "d": 0.016}, "O": {"s": 0.0, "p": 0.74, "d": 0.0}}}

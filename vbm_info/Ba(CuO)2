@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ba(CuO)2", "band_idx": 43, "kpt_idx": 0, "orbitals": {"Ba": {"s": 0.0, "p": 0.026, "d": 0.002}, "Cu": {"s": 0.12, "p": 0.0, "d": 0.624}, "O": {"s": 0.0, "p": 0.124, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ag2BiO3", "band_idx": 89, "kpt_idx": 47, "orbitals": {"Ag": {"s": 0.0, "p": 0.004, "d": 0.15599999999999997}, "Bi": {"s": 0.118, "p": 0.002, "d": 0.032}, "O": {"s": 0.008, "p": 0.5599999999999999, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Al4Bi2O9", "band_idx": 75, "kpt_idx": 36, "orbitals": {"Al": {"s": 0.0, "p": 0.008, "d": 0.0}, "Bi": {"s": 0.112, "p": 0.064, "d": 0.0}, "O": {"s": 0.004, "p": 0.6320000000000001, "d": 0.0}}}

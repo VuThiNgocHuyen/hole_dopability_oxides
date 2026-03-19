@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "AlAsO4", "band_idx": 15, "kpt_idx": 24, "orbitals": {"Al": {"s": 0.001, "p": 0.005, "d": 0.0}, "As": {"s": 0.0, "p": 0.007, "d": 0.009000000000000001}, "O": {"s": 0.006, "p": 0.716, "d": 0.0}}}
