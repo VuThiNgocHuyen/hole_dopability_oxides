@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "La3TiGa5O14", "band_idx": 92, "kpt_idx": 0, "orbitals": {"La": {"s": 0.0, "p": 0.0, "d": 0.0}, "Ti": {"s": 0.0, "p": 0.011, "d": 0.0}, "Ga": {"s": 0.0, "p": 0.002, "d": 0.012}, "O": {"s": 0.0, "p": 0.7340000000000002, "d": 0.0}}}

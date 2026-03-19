@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "LaAg(MoO4)2", "band_idx": 40, "kpt_idx": 74, "orbitals": {"La": {"s": 0.0, "p": 0.001, "d": 0.0}, "Ag": {"s": 0.0, "p": 0.0, "d": 0.597}, "Mo": {"s": 0.0, "p": 0.023, "d": 0.013000000000000001}, "O": {"s": 0.006, "p": 0.282, "d": 0.0}}}

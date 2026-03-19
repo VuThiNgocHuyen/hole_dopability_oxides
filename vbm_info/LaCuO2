@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "LaCuO2", "band_idx": 16, "kpt_idx": 93, "orbitals": {"La": {"s": 0.0, "p": 0.001, "d": 0.009000000000000001}, "Cu": {"s": 0.127, "p": 0.0, "d": 0.6060000000000001}, "O": {"s": 0.0, "p": 0.096, "d": 0.0}}}

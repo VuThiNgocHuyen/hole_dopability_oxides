@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Li2CdGeO4", "band_idx": 41, "kpt_idx": 67, "orbitals": {"Li": {"s": 0.0, "p": 0.009000000000000001, "d": 0.0}, "Cd": {"s": 0.002, "p": 0.019, "d": 0.083}, "Ge": {"s": 0.0, "p": 0.0, "d": 0.004}, "O": {"s": 0.0, "p": 0.659, "d": 0.0}}}

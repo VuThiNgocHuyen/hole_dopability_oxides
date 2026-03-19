@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "LaAuO3", "band_idx": 79, "kpt_idx": 30, "orbitals": {"La": {"s": 0.0, "p": 0.028, "d": 0.0}, "Au": {"s": 0.0, "p": 0.0, "d": 0.24000000000000002}, "O": {"s": 0.0, "p": 0.5399999999999999, "d": 0.0}}}

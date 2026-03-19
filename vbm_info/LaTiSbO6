@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "LaTiSbO6", "band_idx": 27, "kpt_idx": 3, "orbitals": {"La": {"s": 0.0, "p": 0.007, "d": 0.003}, "Ti": {"s": 0.0, "p": 0.017, "d": 0.004}, "Sb": {"s": 0.0, "p": 0.001, "d": 0.001}, "O": {"s": 0.0, "p": 0.7300000000000001, "d": 0.0}}}

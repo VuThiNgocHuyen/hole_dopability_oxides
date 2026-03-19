@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "KZn4(SbO4)3", "band_idx": 70, "kpt_idx": 16, "orbitals": {"K": {"s": 0.0, "p": 0.002, "d": 0.0}, "Zn": {"s": 0.001, "p": 0.013999999999999999, "d": 0.172}, "Sb": {"s": 0.0, "p": 0.002, "d": 0.01}, "O": {"s": 0.002, "p": 0.6219999999999999, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "LaAgO2", "band_idx": 33, "kpt_idx": 12, "orbitals": {"La": {"s": 0.0, "p": 0.008, "d": 0.006}, "Ag": {"s": 0.166, "p": 0.0, "d": 0.426}, "O": {"s": 0.0, "p": 0.188, "d": 0.0}}}
