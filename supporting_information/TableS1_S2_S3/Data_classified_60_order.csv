@@ -1,0 +1,61 @@
+MP-ID,Formula,O-2p,Categories,Doping
+mp-19215,CaCrO4,0.7520000000000000,Cr-based,"Na_Ca, V_Cr"
+mp-18741,RbLiCrO4,0.738,Cr-based,V_Cr
+mp-17071,Rb2CrO4,0.7280000000000000,Cr-based,V_Cr
+mp-19970,Li3CuO3,0.7280000000000000,partially,Ca_Cu
+mp-18781,CrCdO4,0.7160000000000000,Fully,"Na_Cd, V_Cr"
+mp-647813,Cs2CrO4,0.7000000000000000,Cr-based,V_Cr
+mp-996962,LiAgO2,0.696,partially,Ca_Ag
+mp-7041,CaHgO2,0.6820000000000000,Fully,"Na_Hg, Na_Ca"
+mp-4961,Na2HgO2,0.676,Fully,Na_Hg　
+mp-665922,SrHgO2,0.66,Fully,"Na_Hg, Na_Sr"
+mp-1047437,Ca(CuO2)2,0.6440000000000000,partially,"Na_Ca, Ca_Cu"
+mp-5860,K2HgO2,0.64,Fully,Na_Hg　
+mp-753287,CaCdO2,0.64,Fully,"Na_Ca, Na_Cd"
+mp-5072,Rb2HgO2,0.632,Fully,Na_Hg　
+mp-754326,NaAgO2,0.622,partially,Ca_Ag
+mp-3915,BaHgO2,0.618,Fully,"Na_Hg, Na_Ba"
+mp-755478,CdBiO3,0.616,lone-pair,No_doping
+mp-7232,Cs2HgO2,0.616,Fully,Na_Hg 
+mp-23127,Ba2BiSbO6,0.608,lone-pair,No_doping
+mp-9158,LiCuO2,0.604,partially,Ca_Cu
+mp-1047036,Ca(AgO2)2,0.604,partially,"Ca_Ag, Na_Ca"
+mp-29164,SrBiO3,0.602,lone-pair,No_doping
+mp-1224,HgO,0.602,Fully,Na_Hg
+mp-766217,Sr4Cu2O7,0.594,partially,"Na_Sr, Ca_Cu"
+mp-20015,As2PbO6,0.59,lone-pair,No_doping
+mp-2133,ZnO,0.588,Fully,Na_Zn
+mp-35647,Zn2PtO4,0.588,Fully,"Na_Zn, Bi_Pt, Sc_Pt"
+mp-4541,NaCuO2,0.584,partially,Ca_Cu
+mp-997088,KAgO2,0.58,partially,Ca_Ag
+mp-1096933,CsAgO2,0.58,partially,Ca_Ag
+mp-20727,Sb2PbO6,0.578,lone-pair,No_doping
+mp-7471,Li3AuO3,0.5720000000000000,partially,Ca_Au
+mp-768915,Na3AuO3,0.5640000000000000,partially,Ca_Au
+mp-782050,Ba4PdO6,0.564,partially,"Na_Ba, Bi_Pd, Sc_Pd"
+mp-23558,Ag2BiO3,0.560,lone-pair,No_doping
+mp-1041631,Mg(CuO2)2,0.558,partially,"Na_Mg, Ca_Cu"
+mp-997052,RbAgO2,0.556,partially,Ca_Ag
+mp-8666,CsAgO,0.552,Fully,No_doping
+mp-22984,NaBiO2,0.552,lone-pair,No_doping
+mp-1095378,AsAuO4,0.548,partially,"Si_As, Bi_Au, Sc_Au"
+mp-553310,CsCuO2,0.548,partially,Ca_Cu
+mp-22169,MoPbO4,0.544,lone-pair,No_doping
+mp-29775,Sr4PdO6,0.5400000000000000,partially,"Na_Sr, Bi_Pd, Sc_Pd"
+mp-8603,RbAgO,0.54,Fully,No_doping
+mp-3982,KCuO2,0.54,partially,Ca_Cu 
+mp-10299,Ca4PdO6,0.5360000000000000,partially,"Na_Ca, Bi_Pd, Sc_Pd"
+mp-28796,Sr5(AuO4)2,0.536,partially,Ca_Au
+mp-997002,KAuO2,0.532,partially,Ca_Au
+mp-28365,Na3AuO2,0.528,Fully,No_doping
+mp-27253,Au2O3,0.527,partially,Ca_Au
+mp-997089,NaAuO2,0.526,partially,Ca_Au
+mp-29920,Rb5Au3O2,0.52,partially,Ca_Au
+mp-7472,RbAuO2,0.52,partially,Ca_Au
+mp-997024,CsAuO2,0.52,partially,Ca_Au
+mp-8727,Ba4PtO6,0.516,partially,"Na_Ba, Bi_Pt, Sc_Pt"
+mp-757242,Li5AuO4,0.516,partially,Ca_Au
+mp-760483,Li2PdO3,0.514,partially,"Bi_Pd, Sc_Pd"
+mp-559067,KNa2AuO2,0.512,Fully,No_doping
+mp-557807,CsK2AuO2,0.502,Fully,No_doping
+mp-997036,CdAuO2,0.5,Fully,Na_Cd

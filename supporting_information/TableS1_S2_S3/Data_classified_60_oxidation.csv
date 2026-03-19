@@ -1,0 +1,61 @@
+MP-ID,Formula,O-2p,Oxidation,Categories,Categories,Doping
+mp-997036,CdAuO2,0.5,"Cd2+, mix Au³⁺ and Au1+",Fully,Cd2+full/Au3+TM-d8,Na_Cd
+mp-557807,CsK2AuO2,0.502,Au1⁺,Fully,TM-d10,No_doping
+mp-559067,KNa2AuO2,0.512,Au1⁺,Fully,TM-d10,No_doping
+mp-760483,Li2PdO3,0.514,Pd⁴⁺,partially,TM-d6,"Bi_Pd, Sc_Pd"
+mp-8727,Ba4PtO6,0.516,Pt⁴⁺,partially,TM-d6,"Na_Ba, Bi_Pt, Sc_Pt"
+mp-757242,Li5AuO4,0.516,Au³⁺,partially,TM-d8,Ca_Au
+mp-997024,CsAuO2,0.52,Au³⁺,partially,TM-d8,Ca_Au
+mp-7472,RbAuO2,0.52,Au³⁺,partially,TM-d8,Ca_Au
+mp-29920,Rb5Au3O2,0.52,Au-1? Au⁺ mix Au³⁺,partially,TM-d8/???,Ca_Au
+mp-997089,NaAuO2,0.526,Au³⁺,partially,TM-d8,Ca_Au
+mp-27253,Au2O3,0.527,Au³⁺,partially,TM-d8,Ca_Au
+mp-28365,Na3AuO2,0.528,Au1⁺,Fully,TM-d10,No_doping
+mp-997002,KAuO2,0.532,Au³⁺,partially,TM-d8,Ca_Au
+mp-10299,Ca4PdO6,0.5360000000000000,Pd⁴⁺,partially,TM-d6,"Na_Ca, Bi_Pd, Sc_Pd"
+mp-28796,Sr5(AuO4)2,0.536,Au³⁺,partially,TM-d8,Ca_Au
+mp-29775,Sr4PdO6,0.5400000000000000,Pd⁴⁺,partially,TM-d6,"Na_Sr, Bi_Pd, Sc_Pd"
+mp-8603,RbAgO,0.54,Ag1+,Fully,TM-d10,No_doping
+mp-3982,KCuO2,0.54,Cu3+,partially,TM-d8,Ca_Cu 
+mp-22169,MoPbO4,0.544,Pb2+ Mo+6,lone-pair,lone-pair,No_doping
+mp-553310,CsCuO2,0.548,Cu3+,partially,TM-d8,Ca_Cu
+mp-1095378,AsAuO4,0.548,"As5+, Au3+",partially,TM-d8,"Si_As, Bi_Au, Sc_Au"
+mp-22984,NaBiO2,0.552,Bi³⁺,lone-pair,lone-pair,No_doping
+mp-8666,CsAgO,0.552,Ag1+,Fully,TM-d10,No_doping
+mp-997052,RbAgO2,0.556,Ag3+,partially,TM-d8,Ca_Ag
+mp-1041631,Mg(CuO2)2,0.558,Cu3+,partially,TM-d8,"Na_Mg, Ca_Cu"
+mp-23558,Ag2BiO3,0.560,"Ag3+, Bi³⁺",lone-pair,lone-pair/partially ,No_doping
+mp-782050,Ba4PdO6,0.564,Pd⁴⁺,partially,TM-d6,"Na_Ba, Bi_Pd, Sc_Pd"
+mp-768915,Na3AuO3,0.5640000000000000,Au3+,partially,TM-d8,Ca_Au
+mp-7471,Li3AuO3,0.5720000000000000,Au3+,partially,TM-d8,Ca_Au
+mp-20727,Sb2PbO6,0.578,"Sb5+,Pb2+",lone-pair,lonepair,No_doping
+mp-1096933,CsAgO2,0.58,Ag3+,partially,TM-d8,Ca_Ag
+mp-997088,KAgO2,0.58,Ag3+,partially,TM-d8,Ca_Ag
+mp-4541,NaCuO2,0.584,Cu3+,partially,TM-d8,Ca_Cu
+mp-35647,Zn2PtO4,0.588,"Zn2+, Pt⁴⁺",Fully,TM-d10,"Na_Zn, Bi_Pt, Sc_Pt"
+mp-2133,ZnO,0.588,Zn2+,Fully,TM-d10,Na_Zn
+mp-20015,As2PbO6,0.59,"Pb2+, As5+",lone-pair,Lone-pair,No_doping
+mp-766217,Sr4Cu2O7,0.594,"Sr2+,Cu3+",partially,TM-d8,"Na_Sr, Ca_Cu"
+mp-1224,HgO,0.602,Hg2+,Fully,TM-d10,Na_Hg
+mp-29164,SrBiO3,0.602,"Sr2+,Bi4+ (mix3&5)",lone-pair,lone-pair/TM-d10,No_doping
+mp-1047036,Ca(AgO2)2,0.604,Ag+3,partially,TM-d8,"Ca_Ag, Na_Ca"
+mp-9158,LiCuO2,0.604,Cu3+,partially,TM-d8,Ca_Cu
+mp-23127,Ba2BiSbO6,0.608,"Bi3+, Sb5+",lone-pair,Lone-pair,No_doping
+mp-7232,Cs2HgO2,0.616,Hg2+,Fully,TM-d10,Na_Hg 
+mp-755478,CdBiO3,0.616,"Cd2+,Bi4+(mix3&5)",lone-pair,lone-pair/TM-d10,No_doping
+mp-3915,BaHgO2,0.618,Hg2+,Fully,TM-d10,"Na_Hg, Na_Ba"
+mp-754326,NaAgO2,0.622,Ag+3,partially,TM-d8,Ca_Ag
+mp-5072,Rb2HgO2,0.632,Hg2+,Fully,TM-d10,Na_Hg　
+mp-5860,K2HgO2,0.64,Hg2+,Fully,TM-d10,Na_Hg　
+mp-753287,CaCdO2,0.64,Cd2+,Fully,TM-d10,"Na_Ca, Na_Cd"
+mp-1047437,Ca(CuO2)2,0.6440000000000000,Cu3+,partially,TM-d8,"Na_Ca, Ca_Cu"
+mp-665922,SrHgO2,0.66,Hg2+,Fully,TM-d10,"Na_Hg, Na_Sr"
+mp-4961,Na2HgO2,0.676,Hg2+,Fully,TM-d10,Na_Hg　
+mp-7041,CaHgO2,0.6820000000000000,Hg2+,Fully,TM-d10,"Na_Hg, Na_Ca"
+mp-996962,LiAgO2,0.696,Ag+3,partially,TM-d8,Ca_Ag
+mp-647813,Cs2CrO4,0.7000000000000000,Cr6+,Cr-based,Cr-based,V_Cr
+mp-18781,CrCdO4,0.7160000000000000,"Cr6+,Cd2+",Fully,TM-d10/Cr-based,"Na_Cd, V_Cr"
+mp-19970,Li3CuO3,0.7280000000000000,Cu3+,partially,TM-d8,Ca_Cu
+mp-17071,Rb2CrO4,0.7280000000000000,Cr6+,Cr-based,Cr-based,V_Cr
+mp-18741,RbLiCrO4,0.738,Cr6+,Cr-based,Cr-based,V_Cr
+mp-19215,CaCrO4,0.7520000000000000,Cr6+,Cr-based,Cr-based,"Na_Ca, V_Cr"

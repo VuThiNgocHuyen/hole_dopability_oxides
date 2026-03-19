@@ -1,0 +1,28 @@
+MP-ID,Formula,O-2p,Categories,Doping
+mp-19215,CaCrO4,0.7520000000000000,Cr-based,"Na_Ca, V_Cr"
+mp-18741,RbLiCrO4,0.738,Cr-based,V_Cr
+mp-17071,Rb2CrO4,0.7280000000000000,Cr-based,V_Cr
+mp-19970,Li3CuO3,0.7280000000000000,partially,Ca_Cu
+mp-18781,CrCdO4,0.7160000000000000,Fully,"Na_Cd, V_Cr"
+mp-647813,Cs2CrO4,0.7000000000000000,Cr-based,V_Cr
+mp-996962,LiAgO2,0.696,partially,Ca_Ag
+mp-7041,CaHgO2,0.6820000000000000,Fully,"Na_Hg, Na_Ca"
+mp-4961,Na2HgO2,0.676,Fully,Na_Hg　
+mp-665922,SrHgO2,0.66,Fully,"Na_Hg, Na_Sr"
+mp-1047437,Ca(CuO2)2,0.6440000000000000,partially,"Na_Ca, Ca_Cu"
+mp-5860,K2HgO2,0.64,Fully,Na_Hg　
+mp-753287,CaCdO2,0.64,Fully,"Na_Ca, Na_Cd"
+mp-5072,Rb2HgO2,0.632,Fully,Na_Hg　
+mp-754326,NaAgO2,0.622,partially,Ca_Ag
+mp-3915,BaHgO2,0.618,Fully,"Na_Hg, Na_Ba"
+mp-755478,CdBiO3,0.616,lone-pair,No_doping
+mp-7232,Cs2HgO2,0.616,Fully,Na_Hg 
+mp-23127,Ba2BiSbO6,0.608,lone-pair,No_doping
+mp-9158,LiCuO2,0.604,partially,Ca_Cu
+mp-1047036,Ca(AgO2)2,0.604,partially,"Ca_Ag, Na_Ca"
+mp-29164,SrBiO3,0.602,lone-pair,No_doping
+mp-1224,HgO,0.602,Fully,Na_Hg
+mp-766217,Sr4Cu2O7,0.594,partially,"Na_Sr, Ca_Cu"
+mp-20015,As2PbO6,0.59,lone-pair,No_doping
+mp-2133,ZnO,0.588,Fully,Na_Zn
+mp-35647,Zn2PtO4,0.588,Fully,"Na_Zn, Bi_Pt, Sc_Pt"
