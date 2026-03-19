@@ -1,0 +1,42 @@
+# algorithm
+ALGO  =  N
+
+# accuracy
+PREC   =  Normal
+LREAL  =  Auto
+EDIFF  =  1e-05
+ENCUT  =  400.0
+LASPH  =  True
+NELM   =  100
+
+# ionic relaxation
+ISIF    =  2
+IBRION  =  2
+EDIFFG  =  -0.03
+NSW     =  20
+
+# occupation
+ISMEAR  =  0
+SIGMA   =  0.1
+
+# IO control
+LWAVE   =  True
+LCHARG  =  False
+
+# analyzer
+LORBIT  =  10
+
+# hybrid functional
+LHFCALC   =  True
+PRECFOCK  =  Fast
+AEXX      =  0.25
+HFSCREEN  =  0.208
+TIME      =  0.4
+
+# parallel
+KPAR  =  1
+
+# parchg
+LPARD  =  True
+IBAND  =  16
+LSEPB  =  True
