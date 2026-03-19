@@ -1,0 +1,56 @@
+target: BaHgO2
+A:
+  chem_pot:
+    Ba: -5.51917
+    Hg: 0.0
+    Na: -2.2043375250000006
+    O: -0.50802
+  competing_phases:
+  - Hg
+  - HgO
+  impurity_phases:
+  - Na2HgO2
+B:
+  chem_pot:
+    Ba: -4.42038
+    Hg: -0.78436
+    Na: -1.6549475250000008
+    O: -0.66523
+  competing_phases:
+  - BaO
+  - BaO2
+  impurity_phases:
+  - Na2HgO2
+C:
+  chem_pot:
+    Ba: -3.63601
+    Hg: 0.0
+    Na: -1.2627675250000008
+    O: -1.44959
+  competing_phases:
+  - BaO
+  - Hg
+  impurity_phases:
+  - Na2HgO2
+D:
+  chem_pot:
+    Ba: -5.75084
+    Hg: -0.78436
+    Na: -2.320177525000001
+    O: 0.0
+  competing_phases:
+  - BaO2
+  - O
+  impurity_phases:
+  - Na2HgO2
+E:
+  chem_pot:
+    Ba: -6.02719
+    Hg: -0.50802
+    Na: -2.4583475250000006
+    O: -0.0
+  competing_phases:
+  - HgO
+  - O
+  impurity_phases:
+  - Na2HgO2

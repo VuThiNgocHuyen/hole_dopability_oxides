@@ -1,0 +1,66 @@
+Ba1Hg1:
+  energy: -3.14328748
+  source: BaHg_mp-2197
+Ba1Hg1O2:
+  energy: -22.5828246
+  source: BaHgO2_mp-3915
+Ba1O1:
+  energy: -13.88093817
+  source: BaO_mp-1342
+Ba1O2:
+  energy: -21.53109591
+  source: BaO2_mp-1105
+Ba2:
+  energy: -3.62080455
+  source: Ba_mp-122
+Ba2Hg1:
+  energy: -5.05662313
+  source: Ba2Hg_mp-8094
+Ba2Hg6:
+  energy: -8.73696386
+  source: BaHg3_mp-867770
+Hg3:
+  energy: -0.80209545
+  source: Hg_mp-2629196
+Hg4O4:
+  energy: -31.04123498
+  source: HgO_mp-Pnma
+Na12Ba12:
+  energy: -39.35121276
+  source: BaNa_mp-1247744
+Na12Hg8:
+  energy: -23.18629327
+  source: Na3Hg2_mp-17974
+Na1Ba1Hg2:
+  energy: -5.24918113
+  source: BaNaHg2_mp-867147
+Na1Hg2:
+  energy: -2.65123501
+  source: NaHg2_mp-11466
+Na2:
+  energy: -2.79575991
+  source: Na_mp-10172
+Na2Ba4O2:
+  energy: -34.64240909
+  source: Ba2NaO_mp-1019519
+Na2Hg1O2:
+  energy: -22.45769479
+  source: Na2HgO2_mp-4961
+Na2Hg6:
+  energy: -5.9375402
+  source: NaHg3_mp-1186152
+Na2O1:
+  energy: -13.58342781
+  source: Na2O_mp-2352
+Na4Hg4:
+  energy: -8.60755718
+  source: NaHg_mp-255
+Na4O8:
+  energy: -70.33982585
+  source: NaO2_mp-1545216
+Na6O6:
+  energy: -63.96486783
+  source: Na2O2_mp-2340
+O2:
+  energy: -13.96985468
+  source: mol_O2
