@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ba3NaNbO6", "band_idx": 77, "kpt_idx": 12, "orbitals": {"Ba": {"s": 0.0, "p": 0.013999999999999999, "d": 0.006}, "Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "Nb": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.7040000000000001, "d": 0.0}}}

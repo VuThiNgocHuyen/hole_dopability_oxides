@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ba3SrNb2O9", "band_idx": 115, "kpt_idx": 1, "orbitals": {"Ba": {"s": 0.0, "p": 0.008, "d": 0.012000000000000004}, "Sr": {"s": 0.0, "p": 0.002, "d": 0.0}, "Nb": {"s": 0.0, "p": 0.008, "d": 0.0}, "O": {"s": 0.0, "p": 0.7040000000000002, "d": 0.0}}}
