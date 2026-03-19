@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "LiIn(WO4)2", "band_idx": 63, "kpt_idx": 52, "orbitals": {"Li": {"s": 0.0, "p": 0.0, "d": 0.0}, "In": {"s": 0.0, "p": 0.0, "d": 0.016}, "W": {"s": 0.0, "p": 0.012, "d": 0.0}, "O": {"s": 0.0, "p": 0.7560000000000002, "d": 0.0}}}

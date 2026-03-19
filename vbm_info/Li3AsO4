@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Li3AsO4", "band_idx": 31, "kpt_idx": 12, "orbitals": {"Li": {"s": 0.0, "p": 0.024, "d": 0.0}, "As": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.7260000000000001, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "LiGaO2", "band_idx": 51, "kpt_idx": 0, "orbitals": {"Li": {"s": 0.0, "p": 0.008, "d": 0.0}, "Ga": {"s": 0.0, "p": 0.016, "d": 0.072}, "O": {"s": 0.0, "p": 0.7239999999999999, "d": 0.0}}}

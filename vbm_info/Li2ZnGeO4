@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Li2ZnGeO4", "band_idx": 41, "kpt_idx": 0, "orbitals": {"Li": {"s": 0.0, "p": 0.004, "d": 0.0}, "Zn": {"s": 0.0, "p": 0.01, "d": 0.096}, "Ge": {"s": 0.0, "p": 0.004, "d": 0.034}, "O": {"s": 0.0, "p": 0.6699999999999999, "d": 0.0}}}
