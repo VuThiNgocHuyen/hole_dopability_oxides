@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "BaTi(SiO3)3", "band_idx": 79, "kpt_idx": 3, "orbitals": {"Ba": {"s": 0.0, "p": 0.0, "d": 0.0}, "Ti": {"s": 0.0, "p": 0.0, "d": 0.0}, "Si": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.756, "d": 0.0}}}

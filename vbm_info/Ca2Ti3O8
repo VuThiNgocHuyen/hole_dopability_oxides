@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ca2Ti3O8", "band_idx": 37, "kpt_idx": 16, "orbitals": {"Ca": {"s": 0.002, "p": 0.002, "d": 0.006}, "Ti": {"s": 0.0, "p": 0.048, "d": 0.002}, "O": {"s": 0.0, "p": 0.7559999999999999, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "BaZnO2", "band_idx": 50, "kpt_idx": 10, "orbitals": {"Ba": {"s": 0.0, "p": 0.009000000000000001, "d": 0.013000000000000001}, "Zn": {"s": 0.003, "p": 0.027000000000000003, "d": 0.179}, "O": {"s": 0.0, "p": 0.592, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ca(CuO2)2", "band_idx": 53, "kpt_idx": 46, "orbitals": {"Ca": {"s": 0.002, "p": 0.006, "d": 0.022}, "Cu": {"s": 0.003, "p": 0.004, "d": 0.15200000000000002}, "O": {"s": 0.0, "p": 0.6440000000000001, "d": 0.0}}}

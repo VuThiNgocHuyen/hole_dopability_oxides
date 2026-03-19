@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ca2ScTaO6", "band_idx": 59, "kpt_idx": 0, "orbitals": {"Ca": {"s": 0.0, "p": 0.008, "d": 0.012}, "Sc": {"s": 0.0, "p": 0.019999999999999997, "d": 0.0}, "Ta": {"s": 0.0, "p": 0.019999999999999997, "d": 0.0}, "O": {"s": 0.0, "p": 0.7520000000000002, "d": 0.0}}}

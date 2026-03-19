@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ca3TaGa3(SiO7)2", "band_idx": 79, "kpt_idx": 27, "orbitals": {"Ca": {"s": 0.0, "p": 0.009000000000000001, "d": 0.003}, "Ta": {"s": 0.0, "p": 0.0, "d": 0.0}, "Ga": {"s": 0.0, "p": 0.006, "d": 0.0}, "Si": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.7060000000000001, "d": 0.0}}}

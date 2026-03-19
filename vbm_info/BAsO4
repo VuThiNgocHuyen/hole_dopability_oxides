@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "BAsO4", "band_idx": 15, "kpt_idx": 5, "orbitals": {"B": {"s": 0.0, "p": 0.008, "d": 0.0}, "As": {"s": 0.0, "p": 0.01, "d": 0.02}, "O": {"s": 0.01, "p": 0.752, "d": 0.0}}}
