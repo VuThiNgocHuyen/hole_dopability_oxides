@@ -1,7 +1,0 @@
-xc: hse
-user_incar_settings:
-  AEXX: 0.25
-  ALGO: N
-contcar: CONTCAR-finish
-outcar: OUTCAR-finish
-vasprun: vasprun-finish.xml
