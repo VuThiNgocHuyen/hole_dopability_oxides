@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Mg(CuO2)2", "band_idx": 95, "kpt_idx": 42, "orbitals": {"Mg": {"s": 0.0, "p": 0.004, "d": 0.004}, "Cu": {"s": 0.012000000000000004, "p": 0.004, "d": 0.26399999999999996}, "O": {"s": 0.0, "p": 0.5579999999999999, "d": 0.0}}}

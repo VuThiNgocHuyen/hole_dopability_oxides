@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Na2Sb4O7", "band_idx": 63, "kpt_idx": 5, "orbitals": {"Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "Sb": {"s": 0.13599999999999998, "p": 0.092, "d": 0.008}, "O": {"s": 0.004, "p": 0.47800000000000004, "d": 0.0}}}

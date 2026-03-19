@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Mg2TiO4", "band_idx": 63, "kpt_idx": 0, "orbitals": {"Mg": {"s": 0.0, "p": 0.004, "d": 0.004}, "Ti": {"s": 0.0, "p": 0.052000000000000005, "d": 0.004}, "O": {"s": 0.0, "p": 0.7440000000000001, "d": 0.0}}}

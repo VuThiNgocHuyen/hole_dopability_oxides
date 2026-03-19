@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "LiSc(WO4)2", "band_idx": 63, "kpt_idx": 34, "orbitals": {"Li": {"s": 0.002, "p": 0.002, "d": 0.0}, "Sc": {"s": 0.0, "p": 0.01, "d": 0.008}, "W": {"s": 0.0, "p": 0.008, "d": 0.012}, "O": {"s": 0.0, "p": 0.7479999999999999, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Na2MgSiO4", "band_idx": 31, "kpt_idx": 4, "orbitals": {"Na": {"s": 0.002, "p": 0.006, "d": 0.0}, "Mg": {"s": 0.0, "p": 0.002, "d": 0.002}, "Si": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.714, "d": 0.0}}}

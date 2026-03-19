@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Na2PtO2", "band_idx": 11, "kpt_idx": 170, "orbitals": {"Na": {"s": 0.0, "p": 0.006, "d": 0.0}, "Pt": {"s": 0.0, "p": 0.0, "d": 0.5}, "O": {"s": 0.0, "p": 0.38, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Mg2SnO4", "band_idx": 31, "kpt_idx": 0, "orbitals": {"Mg": {"s": 0.0, "p": 0.0, "d": 0.004}, "Sn": {"s": 0.002, "p": 0.0, "d": 0.14}, "O": {"s": 0.0, "p": 0.7200000000000001, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "MgAl2O4", "band_idx": 31, "kpt_idx": 11, "orbitals": {"Mg": {"s": 0.0, "p": 0.004, "d": 0.008}, "Al": {"s": 0.0, "p": 0.02, "d": 0.0}, "O": {"s": 0.0, "p": 0.7559999999999999, "d": 0.0}}}
