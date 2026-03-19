@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Sr3Ti2O7", "band_idx": 39, "kpt_idx": 30, "orbitals": {"Sr": {"s": 0.0, "p": 0.0, "d": 0.004}, "Ti": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.744, "d": 0.0}}}

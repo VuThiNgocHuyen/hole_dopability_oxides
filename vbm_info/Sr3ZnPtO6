@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Sr3ZnPtO6", "band_idx": 87, "kpt_idx": 12, "orbitals": {"Sr": {"s": 0.0, "p": 0.008, "d": 0.004}, "Zn": {"s": 0.0, "p": 0.002, "d": 0.034}, "Pt": {"s": 0.0, "p": 0.0, "d": 0.33999999999999997}, "O": {"s": 0.0, "p": 0.45200000000000007, "d": 0.0}}}

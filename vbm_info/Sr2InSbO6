@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Sr2InSbO6", "band_idx": 63, "kpt_idx": 71, "orbitals": {"Sr": {"s": 0.0, "p": 0.01, "d": 0.01}, "In": {"s": 0.0, "p": 0.0, "d": 0.014}, "Sb": {"s": 0.0, "p": 0.0, "d": 0.004}, "O": {"s": 0.0, "p": 0.7240000000000002, "d": 0.0}}}

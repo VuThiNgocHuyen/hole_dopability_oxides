@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Sr4Cu2O7", "band_idx": 103, "kpt_idx": 0, "orbitals": {"Sr": {"s": 0.0, "p": 0.0, "d": 0.0}, "Cu": {"s": 0.024, "p": 0.028, "d": 0.17600000000000002}, "O": {"s": 0.004, "p": 0.5940000000000001, "d": 0.0}}}
