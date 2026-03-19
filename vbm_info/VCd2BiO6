@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "VCd2BiO6", "band_idx": 69, "kpt_idx": 3, "orbitals": {"V": {"s": 0.004, "p": 0.014, "d": 0.004}, "Cd": {"s": 0.0, "p": 0.0, "d": 0.018000000000000002}, "Bi": {"s": 0.144, "p": 0.08, "d": 0.01}, "O": {"s": 0.004, "p": 0.552, "d": 0.0}}}

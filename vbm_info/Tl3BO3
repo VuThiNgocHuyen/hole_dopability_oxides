@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Tl3BO3", "band_idx": 59, "kpt_idx": 8, "orbitals": {"Tl": {"s": 0.336, "p": 0.048, "d": 0.0}, "B": {"s": 0.0, "p": 0.014, "d": 0.0}, "O": {"s": 0.0, "p": 0.366, "d": 0.0}}}

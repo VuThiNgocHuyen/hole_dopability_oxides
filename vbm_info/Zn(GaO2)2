@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Zn(GaO2)2", "band_idx": 61, "kpt_idx": 16, "orbitals": {"Zn": {"s": 0.0, "p": 0.008, "d": 0.09}, "Ga": {"s": 0.0, "p": 0.004, "d": 0.048}, "O": {"s": 0.0, "p": 0.688, "d": 0.0}}}
