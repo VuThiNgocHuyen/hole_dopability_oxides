@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "CsAgO", "band_idx": 51, "kpt_idx": 0, "orbitals": {"Cs": {"s": 0.0, "p": 0.048, "d": 0.0}, "Ag": {"s": 0.0, "p": 0.0, "d": 0.2}, "O": {"s": 0.0, "p": 0.552, "d": 0.0}}}

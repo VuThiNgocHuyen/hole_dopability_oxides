@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "CsLi5(BO3)2", "band_idx": 55, "kpt_idx": 0, "orbitals": {"Cs": {"s": 0.0, "p": 0.002, "d": 0.0}, "Li": {"s": 0.0, "p": 0.023999999999999997, "d": 0.0}, "B": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.7440000000000002, "d": 0.0}}}

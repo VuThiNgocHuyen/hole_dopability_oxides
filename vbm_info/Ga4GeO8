@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ga4GeO8", "band_idx": 51, "kpt_idx": 115, "orbitals": {"Ga": {"s": 0.002, "p": 0.008, "d": 0.016}, "Ge": {"s": 0.0, "p": 0.0, "d": 0.001}, "O": {"s": 0.0, "p": 0.752, "d": 0.0}}}

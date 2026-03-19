@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Ge3Sb2O9", "band_idx": 75, "kpt_idx": 0, "orbitals": {"Ge": {"s": 0.0, "p": 0.006, "d": 0.012}, "Sb": {"s": 0.164, "p": 0.136, "d": 0.0}, "O": {"s": 0.0, "p": 0.4619999999999999, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "CsCuO", "band_idx": 25, "kpt_idx": 0, "orbitals": {"Cs": {"s": 0.0, "p": 0.014, "d": 0.002}, "Cu": {"s": 0.09, "p": 0.0, "d": 0.618}, "O": {"s": 0.0, "p": 0.16, "d": 0.0}}}

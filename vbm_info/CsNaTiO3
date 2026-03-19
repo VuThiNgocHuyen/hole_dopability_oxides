@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "CsNaTiO3", "band_idx": 31, "kpt_idx": 12, "orbitals": {"Cs": {"s": 0.0, "p": 0.052, "d": 0.002}, "Na": {"s": 0.0, "p": 0.002, "d": 0.0}, "Ti": {"s": 0.0, "p": 0.034, "d": 0.002}, "O": {"s": 0.0, "p": 0.68, "d": 0.0}}}

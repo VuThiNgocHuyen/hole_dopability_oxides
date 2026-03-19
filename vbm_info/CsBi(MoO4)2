@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "CsBi(MoO4)2", "band_idx": 73, "kpt_idx": 14, "orbitals": {"Cs": {"s": 0.0, "p": 0.0, "d": 0.0}, "Bi": {"s": 0.194, "p": 0.0, "d": 0.0}, "Mo": {"s": 0.0, "p": 0.024, "d": 0.004}, "O": {"s": 0.0, "p": 0.616, "d": 0.0}}}
