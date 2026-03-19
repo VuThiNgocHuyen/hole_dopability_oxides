@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Rb3InO3", "band_idx": 95, "kpt_idx": 15, "orbitals": {"Rb": {"s": 0.0, "p": 0.019000000000000003, "d": 0.0}, "In": {"s": 0.0, "p": 0.010000000000000002, "d": 0.026000000000000002}, "O": {"s": 0.0, "p": 0.632, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "RbAl(MoO4)2", "band_idx": 35, "kpt_idx": 10, "orbitals": {"Rb": {"s": 0.0, "p": 0.0, "d": 0.0}, "Al": {"s": 0.0, "p": 0.0, "d": 0.0}, "Mo": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.762, "d": 0.0}}}

@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Rb2Ti(SiO3)3", "band_idx": 87, "kpt_idx": 3, "orbitals": {"Rb": {"s": 0.0, "p": 0.0, "d": 0.0}, "Ti": {"s": 0.0, "p": 0.0, "d": 0.016}, "Si": {"s": 0.0, "p": 0.006, "d": 0.0}, "O": {"s": 0.0, "p": 0.7360000000000002, "d": 0.0}}}
