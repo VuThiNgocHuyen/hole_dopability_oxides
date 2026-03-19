@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Na3Ca2BiO6", "band_idx": 59, "kpt_idx": 40, "orbitals": {"Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "Ca": {"s": 0.0, "p": 0.022000000000000002, "d": 0.0}, "Bi": {"s": 0.0, "p": 0.0, "d": 0.0}, "O": {"s": 0.0, "p": 0.7010000000000001, "d": 0.0}}}

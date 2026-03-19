@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "NaAgO", "band_idx": 35, "kpt_idx": 58, "orbitals": {"Na": {"s": 0.0, "p": 0.0, "d": 0.0}, "Ag": {"s": 0.128, "p": 0.0, "d": 0.42}, "O": {"s": 0.0, "p": 0.296, "d": 0.0}}}

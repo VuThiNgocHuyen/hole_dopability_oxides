@@ -1,0 +1,1 @@
+{"@module": "huyen.vbm_info", "@class": "VBMInfo", "@version": null, "formula": "Na2Zn(SiO3)2", "band_idx": 57, "kpt_idx": 87, "orbitals": {"Na": {"s": 0.0, "p": 0.004, "d": 0.0}, "Zn": {"s": 0.0, "p": 0.022, "d": 0.12}, "Si": {"s": 0.0, "p": 0.002, "d": 0.0}, "O": {"s": 0.0, "p": 0.6260000000000002, "d": 0.0}}}
